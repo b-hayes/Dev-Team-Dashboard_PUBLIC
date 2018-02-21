@@ -23,3 +23,9 @@ Would be nice if team members in the system can log their hours and associate sp
 
 Reference materials for common code and math/physics principles.
 Be nice to have the ability to build a library code or mathematical formulas etc for team members to be able to quickly reference. This should be designed in such a way that the library can be searched for keywords quickly to display relevant formulas or reference links quickly.
+
+Discontinued.
+=============
+The dashboard is usable witch is enough and I dont have time to add features or make it more presentable now.
+I have made it public as an example of my old work for people to look at.
+Had to make a new repo to clean out sensitive info in the commit history.
